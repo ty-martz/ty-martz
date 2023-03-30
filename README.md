@@ -7,3 +7,4 @@ Baker by heart | Builder by night | Curious by nature | Analyst 9to5
 - 💬 Ask me about Georgia Tech's OMSA or Yandex Practicum Bootcamp or anything really
 - 📫 How to reach me: **jacksontmartz@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=ty-martz&color=lightgrey&label=HITS&style=plastic)
