@@ -1,10 +1,8 @@
-### Hi there 👋 Name's Ty
+### Hi there 👋
 
-Baker by heart | Builder by night | Curious by nature | Analyst 9to5
-
-- 🌱 I’m currently learning a little bit of everything
-- 👯 I’m looking to collaborate on exciting new projects (always up for a learning opportunity)
-- 💬 Ask me about Georgia Tech's OMSA or Yandex Practicum Bootcamp or anything really
+- 🌱 Currently working on the Data team at the [Premier Lacrosse League](https://premierlacrosseleague.com/)
+- 👯 Always up for a learning opportunity
+- 💬 Ask me about Georgia Tech's OMSA or Yandex Practicum Bootcamp or working in data as a whole
 - 📫 How to reach me: **jacksontmartz@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=ty-martz&color=lightgrey&label=HITS&style=plastic)
